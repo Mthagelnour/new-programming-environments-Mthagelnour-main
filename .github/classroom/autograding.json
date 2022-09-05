@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "sanity",
+      "setup": "",
+      "run": "ruby tests-dont-touch/sanity.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "fromRoman invalid chars",
+      "setup": "",
+      "run": "ruby tests-dont-touch/from-roman-invalid-chars.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "fromRoman random successful values",
+      "setup": "",
+      "run": "ruby tests-dont-touch/from-roman-random-succesful-values.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "fromRoman special values",
+      "setup": "",
+      "run": "ruby tests-dont-touch/from-roman-special-values.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "fromRoman valid but lowercase",
+      "setup": "",
+      "run": "ruby tests-dont-touch/from-roman-valid-but-lowercase.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman 0",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-0.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman 4000",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-4000.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman more than 4000",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-more-than-4000.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman negative number",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-negative-number.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman random successful values",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-random-succesful-values.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman repeating single digit",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-repeating-single-digit.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "toRoman special values",
+      "setup": "",
+      "run": "ruby tests-dont-touch/to-roman-special-values.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    }
+  ]
+}
